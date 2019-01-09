@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScheduledRideRequests</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+</resources>

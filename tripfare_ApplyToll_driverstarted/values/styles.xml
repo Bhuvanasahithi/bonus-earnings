@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="MySwitch" parent="@style/Widget.AppCompat.CompoundButton.Switch">
+
+        <item name="android:colorControlActivated" tools:targetApi="lollipop">@drawable/track</item>
+
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+    </style>
+    <!--check box style-->
+    <style name="MyCheckBox" parent="@style/Widget.AppCompat.CompoundButton.CheckBox">
+
+        <item name="android:state_checked">@color/colorPrimary</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+    </style>
+    <!--My Rating Bar-->
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/colorAccent</item>
+        <item name="colorControlActivated">@color/colorOrange</item>
+    </style>
+
+</resources>

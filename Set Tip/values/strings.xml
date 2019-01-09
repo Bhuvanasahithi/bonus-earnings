@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Set Tip</string>
+    <string name="tip">Set % Tip Amount</string>
+    <string name="ridefaretip">% Tip on Ride Fare</string>
+    <string name="note">Note:The pre-setted percentage amount of Tip on Ride fare is auto added to total Ride fare and deducted from your default payment method</string>
+    <string name="save">save</string>
+</resources>

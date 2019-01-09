@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="scheduled_date">Aug 25 2018-10:30PM</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="avg_user_rating">Average User Rating</string>
+    <string name="scheduled_ride_details">Scheduled Ride Details</string>
+    <string name="tripsrc">1039 E El Camino Real,Sunnyvale,CA 94087,USA</string>
+    <string name="tripdestination">1201 Sycamore Terrace,Sunnyvale,CA 94086,USA</string>
+</resources>

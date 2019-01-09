@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WithDrawl</string>
+    <string name="bankdeposits">Bank Deposits</string>
+    <string name="date">Date &amp; Time</string>
+    <string name="amount">Amount</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTrips</string>
+    <string name="inProgress">In-Progress</string>
+</resources>

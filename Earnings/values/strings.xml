@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyEarnings</string>
+    <string name="today">Today</string>
+    <string name="thisweek">This Week</string>
+    <string name="todaytotal">Today Total</string>
+    <string name="todaydate">August 02,2018</string>
+    <string name="todayamount">$80.00</string>
+    <string name="rides">Rides</string>
+    <string name="no_of_rides">04</string>
+    <string name="hours">Hours</string>
+    <string name="no_of_hours">1h 16m</string>
+    <string name="earningdetails">Earning Details</string>
+    <string name="Ridepayments">Ride Payments</string>
+    <string name="tips">Tips</string>
+    <string name="tipamount">$21.00</string>
+    <string name="bonuses">Bonuses</string>
+    <string name="bonusamount">$0.00</string>
+    <string name="cancelearnings">Cancel Earnings</string>
+    <string name="cancelearningsamount">$5.00</string>
+    <string name="tolls">Tolls</string>
+    <string name="tollamount">$0.00</string>
+    <string name="pramfees">Pram Fees</string>
+    <string name="pramamount">$16.00</string>
+    <string name="total">Total</string>
+    <string name="weeklytotal">Weekly Total</string>
+    <string name="weekperiod">July 31,2018-August 04,2018</string>
+    <string name="weekearnings">$320.20</string>
+    <string name="rides_in_week">38</string>
+    <string name="hours_in_week">30h 26m</string>
+</resources>

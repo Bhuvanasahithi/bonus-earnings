@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DriverMain</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ok">OK</string>
+    <string name="dialog">Verification is under process.You will be notified once your profile verification is done</string>
+    <string name="offline">OFFLINE</string>
+    <string name="address">1039,E EL Camino Real,SunnyVale,CA</string>
+    <string name="earning">Today Earning $123.00</string>
+    <string name="profilename">Susan Bones</string>
+    <string name="age">Age 29</string>
+    <string name="rating">4</string>
+    <string name="pram">PRAM</string>
+    <string name="pickup">Pickup:</string>
+    <string name="address_ride_request">1201 Sycamore Terrace,\nSunnyvale,CA 94806,\nUSA</string>
+    <string name="specialrequest">Special Request:Baby Seat</string>
+    <string name="accept">ACCEPT</string>
+    <string name="decline">DECLINE</string>
+    <string name="speed">1.5X</string>
+    <string name="surgefare">SURGE FARE IN EFFECT</string>
+</resources>

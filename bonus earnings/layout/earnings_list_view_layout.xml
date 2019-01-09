@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="@dimen/dp_20"
+    android:layout_marginEnd="@dimen/dp_20">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_content">
+    <TextView
+        android:id="@+id/txt_bonus_information"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dp_10"
+        android:textColor="@color/colorGrayDark"
+        android:textSize="@dimen/sp_20"/>
+    <ImageButton
+        android:id="@+id/imgbut_right_arrow"
+        android:padding="@dimen/dp_10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:background="@null"
+        android:src="@drawable/ic_keyboard_arrow_right"/>
+    </RelativeLayout>
+    <!--layout that should get appear after clicking on arrow-->
+    <LinearLayout
+        android:id="@+id/layout_bonus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_content"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:divider="?dividerHorizontal"
+        android:showDividers="beginning">
+        <TextView
+            android:id="@+id/txt_bonus_information_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorGray"
+            android:layout_marginStart="@dimen/dp_10"
+            android:layout_marginEnd="@dimen/dp_10"
+            android:text="@string/text"
+            android:textSize="@dimen/sp_20"/>
+    </LinearLayout>
+</RelativeLayout>
+

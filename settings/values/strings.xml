@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Settings</string>
+    <string name="withdrawal_instructions">Withdrawal Instructions</string>
+    <string name="daily_payments">Daily Payments</string>
+    <string name="weekly_payments">Weekly Payments</string>
+    <string name="bankinfo">Bank info</string>
+    <string name="account_name">Account Name</string>
+    <string name="account_number">Account Number</string>
+    <string name="aba_number">ABA Number</string>
+    <string name="bank_name">Bank Name</string>
+    <string name="debit">Debit card</string>
+    <string name="routing_number">Routing Number</string>
+    <string name="save">SAVE</string>
+</resources>

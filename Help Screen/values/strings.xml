@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelpScreen</string>
+    <string name="help">Help</string>
+    <string name="searchkeyword">Search Keyword</string>
+    <string name="frequently_asked_questions">FREQUENTLY ASKED QUESTIONS</string>
+    <string name="contact">CONTACT</string>
+    <string name="name">Glenn</string>
+    <string name="email">glenngiles@company.com</string>
+    <string name="phone">+1 456-789-0123</string>
+    <string name="message">Lorem Ipsum is simply dummy text of printing and typesetting industry.</string>
+    <string name="save">save</string>
+    <string name="callusinfo">or\nCall Us @</string>
+    <string name="callus_number">+1 456-789-PRAM</string>
+</resources>

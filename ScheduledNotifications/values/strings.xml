@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DriverMain</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ok">OK</string>
+    <string name="dialog">Verification is under process.You will be notified once your profile verification is done</string>
+    <string name="offline">OFFLINE</string>
+    <string name="address">1039,E EL Camino Real,SunnyVale,CA</string>
+    <string name="earning">Today Earning $123.00</string>
+    <string name="profilename">Susan Bones</string>
+    <string name="age">Age 29</string>
+    <string name="rating">4</string>
+    <string name="pram">PRAM</string>
+    <string name="pickup">Pickup:</string>
+    <string name="address_ride_request">1201 Sycamore Terrace,\nSunnyvale,CA 94806,\nUSA</string>
+    <string name="specialrequest">Special Request:Baby Seat</string>
+    <string name="accept">ACCEPT</string>
+    <string name="decline">DECLINE</string>
+    <string name="speed">1.5X</string>
+    <string name="surgefare">SURGE FARE IN EFFECT</string>
+    <!--strings for driver_tripfare,applytoll-->
+    <string name="tripearning">Your Trip Earning</string>
+    <string name="tripamount_total">$150.00</string>
+    <string name="trip_speed">40 miles in 59 minutes</string>
+    <string name="payment_option">PAY OUT NOW</string>
+    <string name="payment_option_skip">SKIP</string>
+    <string name="tollfee_applied">Is Toll Applied?</string>
+    <string name="tollfee_amount">$5.00</string>
+    <string name="airportfee_applied">Is Airport fees Applied?</string>
+    <string name="but_end_ride">END RIDE</string>
+    <string name="trip_amount_with_no_toll">$145.00</string>
+    <!--strings for driver start ride screen-->
+    <string name="passengername">Susan Bones</string>
+    <string name="opt">Enter OPT</string>
+    <string name="start_ride">start ride</string>
+    <!--strings for scheduled notifications screen-->
+    <string name="scheduledrequest">Scheduled Request</string>
+    <string name="scheduled_date">08/24/2018</string>
+    <string name="pickuptime_txt">Pickup time:</string>
+    <string name="pickup_time">08:25</string>
+    <string name="pickuplocation_txt">Pickup Location:</string>
+<!--
+    <string name="address_ride_request">1201 Sycamore Terrace,\nSunnyvale,CA 94806,\nUSA</string>
+-->
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Trip Details</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="trip_timings">July 24,2018-10:20AM</string>
+    <string name="tripamount">$80.00</string>
+    <string name="tripspeed">40mi-56m</string>
+    <string name="tripsrc">1039 E El Camino Real,Sunnyvale,CA 94087,USA</string>
+    <string name="tripdestination">1201 Sycamore Terrace,Sunnyvale,CA 94086,USA</string>
+    <string name="receipt">RECEIPT</string>
+    <string name="ridefare">Ride Fare</string>
+    <string name="ridefare_amount">$140.00</string>
+    <string name="tip">Tip</string>
+    <string name="tip_amount">$5.00</string>
+    <string name="toll">Toll Fee</string>
+    <string name="toll_amount">$5.00</string>
+    <string name="total">Total</string>
+    <string name="total_amount">$150.00</string>
+</resources>

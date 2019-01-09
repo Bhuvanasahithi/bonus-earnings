@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="RatingBarTheme" parent="Base.Widget.AppCompat.RatingBar">
+        <item name="android:colorControlActivated" tools:targetApi="lollipop">@color/colorOrange</item>
+        <item name="android:colorControlNormal" tools:targetApi="lollipop">@color/colorAccent</item>
+    </style>
+    <style name="ProfileCustomTextAppearance" parent="@android:style/TextAppearance">
+        <item name="android:colorControlNormal" tools:targetApi="lollipop">@android:color/black</item>
+        <item name="android:colorControlActivated" tools:targetApi="lollipop">@android:color/black</item>
+        <item name="android:textColorHint">@android:color/black</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:colorAccent" tools:targetApi="lollipop">@android:color/black</item>
+        <item name="android:textColorHighlight">@android:color/black</item>
+    </style>
+</resources>

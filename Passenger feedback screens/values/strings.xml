@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Passenger Feedback</string>
+    <string name="feedback_title">Feedback</string>
+    <string name="feedback_response">Thank you for riding with PRAM.</string>
+    <string name="ratingrequest">Please rate Luna</string>
+    <string name="rating">2</string>
+    <string name="numstars">5</string>
+    <string name="stepsize">0.5</string>
+    <string name="ratingexperience">Please rate your experience with this ride</string>
+    <string name="ratingexperience_num">5</string>
+    <string name="hint">Comments</string>
+    <string name="comment">Lorem Ipsum is simply dummy text of printing and type setting industry.</string>
+    <string name="submit">submit</string>
+    <string name="dialog_text">Thank you for rating this ride.\nYour feedback helps us to better serve you</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="@dimen/dp_10"
+    android:background="@android:color/transparent"
+    android:id="@+id/layout_surgefare"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_surge_speed"
+        android:text="@string/speed"
+        android:textStyle="bold"
+        android:textColor="@color/colorOrange"
+        android:layout_marginTop="@dimen/dp_10"
+        android:padding="@dimen/dp_15"
+        android:background="@drawable/textview_round"
+        android:textSize="@dimen/sp_25"
+        android:layout_centerHorizontal="true"/>
+    <TextView
+        android:id="@+id/txt_surgefare"
+        android:layout_below="@id/txt_surge_speed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/surgefare"
+        android:textSize="@dimen/sp_14"
+        android:layout_marginTop="@dimen/dp_10_neg"
+        android:background="#333333"
+        android:padding="@dimen/dp_10"
+        android:textColor="@android:color/white"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>
